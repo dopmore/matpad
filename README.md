@@ -5,6 +5,7 @@ a macropad for hackclub and CAD
 <img width="798" height="630" alt="Screenshot 2025-12-20 135619" src="https://github.com/user-attachments/assets/85ba1d08-0279-45df-a9b0-c35e3ea30807" />
 <img width="748" height="606" alt="Screenshot 2025-12-20 135611" src="https://github.com/user-attachments/assets/186e90cb-9a91-486b-a718-bb0a9ddc911c" />
 <img width="811" height="636" alt="Screenshot 2025-12-20 135652" src="https://github.com/user-attachments/assets/497dd8b4-1dc1-4cad-af54-f80503fdd068" />
+
 # BOM:
     - 9x Cherry MX Switches
     - 9x DSA Keycaps
