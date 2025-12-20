@@ -11,7 +11,7 @@ keyboard = KMKKeyboard()
 
 
 cols = [board.D26, board.D27, board.D28]
-rows = [board.D29, board.D6, board.D7, D0]
+rows = [board.D29, board.D6, board.D7, board.D0]
 
 scanner = MatrixScanner(
     row_pins=rows,
