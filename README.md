@@ -4,6 +4,8 @@ a macropad for hackclub and CAD with EC11 rotary Encoder
 <img width="946" height="719" alt="Screenshot 2025-12-21 003645" src="https://github.com/user-attachments/assets/e67382c5-3aee-4677-81d8-2bf89d262bac" />
 <img width="906" height="700" alt="Screenshot 2025-12-21 003659" src="https://github.com/user-attachments/assets/f19b6152-e315-4867-bc19-41ada4defef4" />
 <img width="931" height="649" alt="Screenshot 2025-12-21 003714" src="https://github.com/user-attachments/assets/4180f958-3fe8-4bf2-86b8-7d09dea6a422" />
+<img width="538" height="515" alt="Screenshot 2025-12-20 235744" src="https://github.com/user-attachments/assets/24a225e1-48a9-4d58-ac93-bf98e103e382" />
+<img width="487" height="627" alt="Screenshot 2025-12-20 235758" src="https://github.com/user-attachments/assets/a01849d7-4b7c-4b51-b645-070244076d69" />
 
 
 # BOM:
