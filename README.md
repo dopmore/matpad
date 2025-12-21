@@ -1,5 +1,5 @@
 # matpad
-a macropad for hackclub and CAD with EC11 rotary Encoder
+a macropad for hackclub and CAD with EC11 rotary Encoder (Im going for a minimalist case without top cover, but may add one if the build looks bad :))
 
 <img width="1085" height="732" alt="Screenshot 2025-12-21 120904" src="https://github.com/user-attachments/assets/d1495511-a9c7-41ba-9240-bcd7d86448a6" />
 <img width="487" height="403" alt="Screenshot 2025-12-21 113210" src="https://github.com/user-attachments/assets/5b86eec8-fda7-43d9-9b2b-ee9a4ca83829" />
