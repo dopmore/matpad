@@ -12,6 +12,7 @@ a macropad for hackclub and CAD with EC11 rotary Encoder
 
     - 12x Cherry MX Switches
     - 12x DSA Keycaps
+    - 12x Diodes (1N4148)
     - 4x M3x5x4 Heatset inserts
     - 4x M3x16mm SHCS Bolts
     - 1x EC11 Rotary Encoder
