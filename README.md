@@ -1,18 +1,18 @@
 # matpad
 a macropad for hackclub and CAD with EC11 rotary Encoder
 
-<img width="946" height="719" alt="Screenshot 2025-12-21 003645" src="https://github.com/user-attachments/assets/e67382c5-3aee-4677-81d8-2bf89d262bac" />
-<img width="906" height="700" alt="Screenshot 2025-12-21 003659" src="https://github.com/user-attachments/assets/f19b6152-e315-4867-bc19-41ada4defef4" />
-<img width="931" height="649" alt="Screenshot 2025-12-21 003714" src="https://github.com/user-attachments/assets/4180f958-3fe8-4bf2-86b8-7d09dea6a422" />
-<img width="538" height="515" alt="Screenshot 2025-12-20 235744" src="https://github.com/user-attachments/assets/24a225e1-48a9-4d58-ac93-bf98e103e382" />
-<img width="487" height="627" alt="Screenshot 2025-12-20 235758" src="https://github.com/user-attachments/assets/a01849d7-4b7c-4b51-b645-070244076d69" />
+<img width="1085" height="732" alt="Screenshot 2025-12-21 120904" src="https://github.com/user-attachments/assets/d1495511-a9c7-41ba-9240-bcd7d86448a6" />
+<img width="487" height="403" alt="Screenshot 2025-12-21 113210" src="https://github.com/user-attachments/assets/5b86eec8-fda7-43d9-9b2b-ee9a4ca83829" />
+<img width="1085" height="732" alt="Screenshot 2025-12-21 120904" src="https://github.com/user-attachments/assets/43a16dda-9527-4743-bc77-a575b6c5331f" />
+<img width="480" height="713" alt="Screenshot 2025-12-21 113225" src="https://github.com/user-attachments/assets/6ffe4616-98c2-4154-87c5-7f518648c408" />
+
 
 
 # BOM:
 
-    - 12x Cherry MX Switches
-    - 12x DSA Keycaps
-    - 12x Diodes (1N4148)
+    - 16x Cherry MX Switches
+    - 16x DSA Keycaps
+    - 16x Diodes (1N4148)
     - 4x M3x5x4 Heatset inserts
     - 4x M3x16mm SHCS Bolts
     - 1x EC11 Rotary Encoder
