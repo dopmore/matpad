@@ -10,8 +10,8 @@ from kmk.modules.rotary import RotaryEncoder
 keyboard = KMKKeyboard()
 
 
-cols = [board.D26, board.D27, board.D28]
-rows = [board.D29, board.D6, board.D7, board.D0]
+cols = [board.D26, board.D27, board.D28, board.D3]
+rows = [board.D29, board.D6, board.D7, D0]
 
 scanner = MatrixScanner(
     row_pins=rows,
@@ -36,10 +36,10 @@ keyboard.modules.append(encoder)
 
 keyboard.keymap = [
     [
-        [KC.DOT, KC.PLUS, KC.KP_ENTER],    # ROW1
-        [KC.KP_1, KC.KP_2, KC.KP_3],    # ROW2
-        [KC.KP_4, KC.KP_5, KC.KP_6],    # ROW3
-        [KC.KP_7, KC.KP_8, KC.KP_9],    # ROW4
+        [KC.KP_1, KC.KP_2, KC.KP_3, KP.NUMLOCK],    # ROW1
+        [KC.KP_4, KC.KP_5, KC.KP_6, KC.KP_ASTERISK],    # ROW2
+        [KC.KP_7, KC.KP_8, KC.KP_9, KP_MINUS],    # ROW3
+        [KC.DOT, KC.KP_0, KC.KP_PLUS, KC.KP_ENTER],    # ROW4
     ]
 ]
 
