@@ -1,6 +1,15 @@
 # matpad
 a macropad for hackclub and CAD with EC11 rotary Encoder
 
+Heres the final Version!
+![WhatsApp Image 2026-02-14 at 22 13 57](https://github.com/user-attachments/assets/abd53e6a-4a99-4462-b92e-16827df26df4)
+
+
+
+https://github.com/user-attachments/assets/6c2f23e0-6682-42b4-9371-2d59c67244ef
+
+
+
 <img width="1172" height="742" alt="Screenshot 2025-12-21 191851" src="https://github.com/user-attachments/assets/10d3234c-3c9a-4a70-a03a-fceaf5d0fe1f" />
 <img width="993" height="453" alt="Screenshot 2025-12-21 191829" src="https://github.com/user-attachments/assets/b30ff56f-4b71-455c-b123-d3fa90cf0b2b" />
 <img width="997" height="684" alt="Screenshot 2025-12-21 191754" src="https://github.com/user-attachments/assets/f10b5098-d764-4797-8e23-e475ce990e99" />
